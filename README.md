@@ -26,8 +26,8 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/ALAN-K-BIJU/SimonGameWebApp/blob/main/screenshots/home.png" alt="Simon Game Home" width="300"/>
-  <img src="https://github.com/ALAN-K-BIJU/SimonGameWebApp/blob/main/screenshots/level1.png" alt="Simon Game Level 1" width="300"/>
+  <img src="https://github.com/ALAN-K-BIJU/SimonGamewebApp/blob/main/screenshots/home.jpg" alt="Simon Game Home" width="300"/>
+  <img src="https://github.com/ALAN-K-BIJU/SimonGamewebApp/blob/main/screenshots/level1.png" alt="Simon Game Level 1" width="300"/>
 </p>
 
 ---
@@ -46,4 +46,4 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ALAN-K-BIJU/SimonGameWebApp.git
+   git clone https://github.com/ALAN-K-BIJU/SimonGamewebApp.git
